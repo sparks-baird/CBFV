@@ -131,3 +131,5 @@ dmypy.json
 
 # Code profiling / Pylint stuff
 .pylint.d/
+scratch/LICENSE
+scratch/meta.yaml
